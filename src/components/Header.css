@@ -172,6 +172,11 @@ img {
     display: table;
   }
 
+  .menu > p,
+  .header__right > p{
+    font-size: .3rem;
+  }
+
   .icon {
     display: block;
     position: absolute;
