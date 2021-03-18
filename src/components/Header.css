@@ -133,7 +133,7 @@ img {
   display: none;
 }
 
-@media screen and (max-width: 1200px) {
+@media screen and (max-width: 1000px) {
   .header {
     position: relative;
     margin-bottom: 5rem;
@@ -170,11 +170,6 @@ img {
     padding: 5px;
     width: 100%;
     display: table;
-  }
-
-  .menu > p,
-  .header__right > p{
-    font-size: .3rem;
   }
 
   .icon {
