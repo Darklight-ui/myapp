@@ -41,7 +41,7 @@ export default class Header extends Component {
                         <Link to="about">
                         <p>Lorem ipsum</p>
                         </Link>
-                        <Link to="contact">
+                        <Link to="/#">
                         <p>Lorem ipsum</p>
                         </Link>
                         

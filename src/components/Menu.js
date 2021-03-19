@@ -2,32 +2,32 @@ const MenuList =    [
     {
         title: "Lorem ipsum",
         cName: "menu",
-        path: "./firstPage"
+        path: "#"
     },
     {
         title: "Lorem ipsum",
         cName: "menu",
-        path: "./secondPage"
+        path: "./#"
     },
     {
         title: "Lorem ipsum",
         cName: "menu",
-        path: "./thirdPage"
+        path: "./#"
     },
     {
         title: "Lorem ipsum",
         cName: "menu",
-        path: "./forthPage"
+        path: "./#"
     },
     {
         title: "Lorem ipsum",
         cName: "menu",
-        path: "./fifthPage"
+        path: "./#"
     },
     {
         title: "Lorem ipsum",
         cName: "menu",
-        path: "./sixthPage"
+        path: "./#"
     },
 ]
 

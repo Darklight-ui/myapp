@@ -1,8 +1,13 @@
+.footer__wall{
+  width: 100%;
+  height: auto;
+  background-color: rgb(13, 13, 57);
+}
 .footer__container {
   display: flex;
   width: 100%;
   height: auto;
-  background-color: rgb(13, 13, 57);
+  /* background-color: rgb(13, 13, 57); */
   border: none;
   outline: none;
   color: azure;
@@ -22,6 +27,22 @@
 .others > h3 {
   margin-bottom: 20px;
   letter-spacing: 2px;
+}
+
+.media{
+  display: flex;
+  flex-direction: row;
+  width: 100%;
+  height: auto;
+  justify-content: space-around;
+  align-items: center;
+  padding-bottom: 40px;
+}
+
+.media > div{
+  font-size: 1.7rem;
+  color: azure;
+  cursor: pointer;
 }
 
 

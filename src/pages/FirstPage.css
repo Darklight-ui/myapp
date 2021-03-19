@@ -21,3 +21,10 @@
   font-size: 4rem;
   font-weight: 600;
 }
+
+
+@media only screen and (max-width: 900px){
+  .video{
+    height: 100vh;
+  }
+}
